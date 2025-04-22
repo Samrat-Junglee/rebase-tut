@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Samrat Mukherjee feature commit 2
+=======
+Samrat Mukherjee main commit
+>>>>>>> 4402854 (main commit)
